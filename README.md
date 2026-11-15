@@ -1,8 +1,22 @@
-# Projekt Špica 
+# ŠpicaDashboard
 
-<img src="public/app_pic.png" width="400">
+Recruitment task: a dashboard built on top of a provided API.
 
-## Beforehand
+<p float="left">
+  <img src="public/app_pic.png" height="500">
+</p>
+
+Features
+- User management
+- Tracking, managing absences
+
+
+## Tech stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+
+## Prerequisites
 Make sure you have **Node.js**, **npm** and **Angular CLI** installed! 
 
 ## Angular CLI 
